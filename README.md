@@ -3,8 +3,7 @@ Date: 11/20/2019
 
 
 
-# Prototype: https://anbellouzi.github.io/trarri-shoes/ - Trarri
-[Trarri](https://anbellouzi.github.io/trarri-shoes/)
+# Prototype: [Trarri](https://anbellouzi.github.io/trarri-shoes/)
 
 <!-- ### Instruction: visit live version @ https://anbellouzi.github.io/trarri-shoes/ -->
 
