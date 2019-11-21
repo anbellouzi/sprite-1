@@ -13,15 +13,9 @@ Date: 11/20/2019
 ## User Journey:
   User is browsing the internet for Yeezy Boost 350 V2 White. User lands on the home page and seen the exact shoe up for sale. User clicks on the product card and is then taken to the detail page. User reads the product description, shipping and policy and decides to make purchases. User clicks on the Buy Now button which directs to the checkout page. User fills in personal information and clicks on the checkout button. User is then sent to the thank you page, with further instruction on shipping and account sign up.
 
-## Resources:
-  - HTML
-  - CSS
-  - Bootstrap
-
-## Credit:
-  1. Bootstrap: https://bootswatch.com/cosmo/
-  2. StockX: https://stockx.com/
-  3. Image Gallery: https://mdbootstrap.com/plugins/jquery/gallery/
-
 ## Wireframe
   ![Index Page](sprite1_index.png)
+
+
+## Resources:
+  - Sketch
